@@ -8,6 +8,6 @@ The Pomodoro Timer app offers a simple yet effective way to manage your work and
 
 ### Screenshots
 
-![Screenshot (179)](https://github.com/Harshsharma836/Assigments/assets/70514943/405eae2b-f715-4aa6-a3b5-7131be19b8d8)
-![Screenshot (180)](https://github.com/Harshsharma836/Assigments/assets/70514943/8ceae244-d305-4237-bf90-a7f253747219)
+![Screenshot (179)](https://github.com/Harshsharma836/promodro_app/assets/70514943/c95e13e6-952c-4377-bd43-4a9f1dcae8e2)
+![Screenshot (180)](https://github.com/Harshsharma836/promodro_app/assets/70514943/792351e3-89e6-4e6f-8015-4749a75bdfe0)
 
